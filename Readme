@@ -1,0 +1,63 @@
+🔄 Customer Churn Analysis Dashboard
+A Power BI dashboard project designed to explore, understand, and reduce customer churn through data-driven insights. This analysis identifies key drivers of churn and highlights actionable business opportunities to improve customer retention.
+
+📂 Dataset
+Source: 02 Churn-Dataset.xlsx
+
+Content: Includes customer demographics, service subscriptions, usage metrics, account information, and churn status.
+
+The dataset was preprocessed and modeled in Power BI to derive meaningful visualizations and KPIs.
+
+📊 Key Metrics Tracked
+Churn Rate (% of customers who left)
+
+Customer Lifetime Value metrics
+
+Service Usage & Subscription Breakdown
+
+Monthly Charges vs. Churn Correlation
+
+Tenure Distribution (Churned vs. Active)
+
+Demographic Segmentation by Churn
+
+📈 Dashboard Features
+Overview Page: Quick summary of churn statistics and customer counts
+
+Churn Comparison Visuals: Compare churned vs. retained customers across services and demographics
+
+Correlations and Drivers: Explore links between churn and features like contract type, tech support, and internet service
+
+Interactive Filters: Segment churn by gender, senior citizen status, payment method, and more
+
+🧠 Key Insights
+Customers with shorter tenure and month-to-month contracts are more likely to churn
+
+Tech support and fiber optic users show higher churn likelihood
+
+Customers with paperless billing and electronic payment methods churn more frequently
+
+Multi-line service bundles help reduce churn risk
+
+🚀 How to Use
+Download the Power BI report: Churn.pbix
+
+Open in Power BI Desktop
+
+Interact with filters and visuals to explore churn patterns
+
+Customize or extend with additional data as needed
+
+🛠 Tools Used
+Power BI Desktop
+
+Excel
+
+DAX for measures and calculated columns
+
+📌 Possible Improvements
+Add prediction model for churn likelihood
+
+Integrate real-time data source
+
+Develop retention strategy simulator
